@@ -13,8 +13,10 @@ Every decade since 1995, New York City has conducted a census of all trees withi
 
 **Identification and Description**
 
-Source: New York City Open Data
-Dataset: data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh
+**Source:**
+New York City Open Data
+**Dataset:**
+data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh
 
 The dataset includes every tree in New York City as of 2015 and includes (but is not limited to) the tree's location by borough, zip code, and latitude/longitude, species by both Latin and common names, size, health, and issues with the tree's roots, trunk, and branches.
 
